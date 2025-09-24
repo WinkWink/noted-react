@@ -1,0 +1,27 @@
+/* Media query breakpoints */
+@media (min-width: 600px) {
+}
+
+@media (min-width: 906px) {
+}
+
+@media (min-width: 1240px) {
+}
+
+@media (min-width: 1440px) {
+}
+
+@media (min-width: 1680px) {
+}
+
+@media screen and (min-width: 600px) and (max-width: 907px) {
+}
+
+@media (min-width: 600px) {
+}
+
+@media (min-width: 906px) {
+}
+
+@media (min-width: 1240px) {
+}
